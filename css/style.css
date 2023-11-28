@@ -1,0 +1,30 @@
+a.elementor-button.elementor-button-link.elementor-size-md:hover {
+    color: #325664 !important;
+    background-color: #FFFFFF !important;
+    border-style: solid !important;
+    border-width: 0.05em;
+    border-color: #325664 !important;
+}
+
+#sitelinx_screen_down:active, #sitelinx_screen_up:active, #sitelinx_fontsize_down:active, #sitelinx_fontsize_up:active, #sitelinx_readable_font:active, #sitelinx_contrast_bright:active, #sitelinx_contrast_dark:active, #sitelinx_links_underline:active, #sitelinx_links_mark:active {
+    background-color: yellow;
+}
+
+.elementor-drop-cap-letter {
+    color: #6b6865;
+}
+.elementor-drop-cap, .elementor-widget-container {
+    color: #555250;
+}
+
+div.elementor-element.elementor-element-01c13fd.elementor-widget.elementor-widget-text-editor {
+    color: #555250;
+}
+
+#white_text {
+    color: white;
+}
+
+#copyright_text {
+    color: rgba(255, 255, 255, 0.5);
+}
