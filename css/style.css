@@ -6,6 +6,14 @@ a.elementor-button.elementor-button-link.elementor-size-md:hover {
     border-color: #325664 !important;
 }
 
+a.elementor-button.elementor-button-link.elementor-size-md:focus {
+    color: #325664 !important;
+    background-color: #FFFFFF !important;
+    border-style: solid !important;
+    border-width: 0.05em;
+    border-color: #325664 !important;
+}
+
 #sitelinx_screen_down:active, #sitelinx_screen_up:active, #sitelinx_fontsize_down:active, #sitelinx_fontsize_up:active, #sitelinx_readable_font:active, #sitelinx_contrast_bright:active, #sitelinx_contrast_dark:active, #sitelinx_links_underline:active, #sitelinx_links_mark:active {
     background-color: yellow;
 }
