@@ -51,5 +51,8 @@ div.elementor-column.elementor-col-33.elementor-top-column.elementor-element.ele
 
 #explore_section {
     background-color: #797572 !important;
+}
 
+.white_text {
+    color: white;
 }
