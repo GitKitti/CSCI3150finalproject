@@ -53,6 +53,25 @@ div.elementor-column.elementor-col-33.elementor-top-column.elementor-element.ele
     background-color: #797572 !important;
 }
 
+
+
+/* contact.html css */
 .white_text {
     color: white;
+}
+
+#gform_submit_button_2:hover, #gform_submit_button_3:hover {
+    color: #325664 !important;
+    background-color: #FFFFFF !important;
+    border-style: solid !important;
+    border-width: 0.05em;
+    border-color: #325664 !important;
+}
+
+#gform_submit_button_2:focus, #gform_submit_button_3:focus {
+    color: #325664 !important;
+    background-color: #FFFFFF !important;
+    border-style: solid !important;
+    border-width: 0.05em;
+    border-color: #325664 !important;
 }
