@@ -75,3 +75,15 @@ div.elementor-column.elementor-col-33.elementor-top-column.elementor-element.ele
     border-width: 0.05em;
     border-color: #325664 !important;
 }
+
+input:focus, textarea:focus {
+    outline: none !important; /* Removes the default focus outline */
+    border: 2px solid blue !important; /* Adds a blue border */
+    background-color: lightyellow !important; /* Changes background to light yellow */
+    /* Add other styles as needed */
+}
+
+.form_instruction {
+    font-size: 18px;
+}
+
