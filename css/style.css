@@ -88,12 +88,17 @@ input:focus, textarea:focus {
 }
 
 label {
-    color: #54595f;
+    color: #43474d;
 }
 
 #get-in-touch {
     color: white;
     font-weight: 900;
     font-size: 1.2em;
+}
+
+#overlay {
+    filter: blur(100%);
+    filter: grayscale(100%);
 }
 
