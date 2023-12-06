@@ -87,3 +87,7 @@ input:focus, textarea:focus {
     font-size: 18px;
 }
 
+label {
+    color: #555250;
+}
+
